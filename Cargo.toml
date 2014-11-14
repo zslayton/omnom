@@ -1,0 +1,9 @@
+[package]
+
+name = "omnom"
+version = "0.0.1"
+authors = ["Zack Slayton <zack.slayton@gmail.com>"]
+
+[dependencies.stomp]
+
+git = "https://github.com/zslayton/stomp-rs"
