@@ -6,4 +6,4 @@ authors = ["Zack Slayton <zack.slayton@gmail.com>"]
 
 [dependencies.stomp]
 
-git = "https://github.com/zslayton/stomp-rs"
+stomp = "*"
